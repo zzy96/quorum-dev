@@ -7,7 +7,7 @@ apt-get update
 apt-get install -y build-essential unzip libdb-dev libleveldb-dev libsodium-dev zlib1g-dev libtinfo-dev solc sysvbanner wrk haskell-platform
 #apt-get install -y zsh emacs25
 
-export HOME=/home/vagrant
+export HOME=/vagrant
 
 # install golang
 GOREL=go1.9.3.linux-amd64.tar.gz

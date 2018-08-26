@@ -1,0 +1,6 @@
+*.log
+.vagrant
+constellation
+go
+quorum-examples
+quorum-tools
