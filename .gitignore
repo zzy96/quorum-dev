@@ -4,3 +4,5 @@ constellation
 go
 quorum-examples
 quorum-tools
+.DS_Store
+.idea
